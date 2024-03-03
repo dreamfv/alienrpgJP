@@ -2,7 +2,7 @@
   "id": "alienrpgJP",
   "title": "エイリアンTRPG日本語化MOD",
   "description": "FoundryVTTのエイリアンTRPGシステムに日本語を追加します。",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
